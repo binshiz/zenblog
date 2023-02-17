@@ -1,1 +1,2 @@
-this is a blog
+this is a blog.
+Let's hava fun.
