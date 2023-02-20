@@ -2,6 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://binshiz.github.io/zenblog/categories/</loc></url><url>
-            <loc>https://binshiz.github.io/zenblog/tags/</loc></url><url>
-            <loc>https://binshiz.github.io/zenblog/</loc></url></urlset>
+            <loc>https://zenblog-io.vercel.app/posts/first_post/</loc><lastmod>2023-02-17T21:01:10&#43;08:00</lastmod></url><url>
+            <loc>https://zenblog-io.vercel.app/posts/</loc><lastmod>2023-02-17T21:01:10&#43;08:00</lastmod></url><url>
+            <loc>https://zenblog-io.vercel.app/</loc><lastmod>2023-02-17T21:01:10&#43;08:00</lastmod></url><url>
+            <loc>https://zenblog-io.vercel.app/categories/</loc></url><url>
+            <loc>https://zenblog-io.vercel.app/tags/</loc></url></urlset>
