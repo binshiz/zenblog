@@ -2,8 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://zenblog-io.vercel.app/posts/first_post/</loc><lastmod>2023-02-17T21:01:10&#43;08:00</lastmod></url><url>
-            <loc>https://zenblog-io.vercel.app/posts/</loc><lastmod>2023-02-17T21:01:10&#43;08:00</lastmod></url><url>
-            <loc>https://zenblog-io.vercel.app/</loc><lastmod>2023-02-17T21:01:10&#43;08:00</lastmod></url><url>
-            <loc>https://zenblog-io.vercel.app/categories/</loc></url><url>
-            <loc>https://zenblog-io.vercel.app/tags/</loc></url></urlset>
+            <loc>https://zenblog-io.vercel.app/categories/</loc><lastmod>2023-03-11T10:37:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zenblog-io.vercel.app/docker%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</loc><lastmod>2023-03-11T10:37:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zenblog-io.vercel.app/posts/</loc><lastmod>2023-03-11T10:37:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zenblog-io.vercel.app/tags/</loc><lastmod>2023-03-11T10:37:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zenblog-io.vercel.app/tags/%E5%AE%B9%E5%99%A8/</loc><lastmod>2023-03-11T10:37:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zenblog-io.vercel.app/categories/%E6%8A%80%E6%9C%AF/</loc><lastmod>2023-03-11T10:37:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zenblog-io.vercel.app/</loc><lastmod>2023-03-11T10:37:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zenblog-io.vercel.app/first_post/</loc><lastmod>2023-02-17T21:01:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url></urlset>
